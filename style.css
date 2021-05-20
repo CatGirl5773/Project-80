@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: cornsilk;
+}
+input{
+    height:25px;
+    width: 225px;
+    margin: 10px;
+}
+h1{
+    margin-top: 20px;
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+}
+h3{
+    font-size: 25px;
+}
+#welcome{
+    margin: 100px;
+}
